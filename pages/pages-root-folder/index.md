@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: Drama name.jpg
 widget1:
   title: "Shadow Beauty"
   url: 'https://dramaname.social/'
