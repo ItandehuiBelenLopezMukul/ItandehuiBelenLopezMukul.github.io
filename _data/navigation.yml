@@ -1,53 +1,42 @@
-- title: Start
+- title: Inicio
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Lo destacado
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Paises"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Corea del Sur"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Japon"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "China"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Taiwan"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "Tailandia"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
+
+- title: "Contenido"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Actores"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "Dramas"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "Emisiones"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
+  - title: "Proximos Dramas"
     url: "/design/header-logo-only/"
-  - title: "Header With Text"
+  - title: "Las tendencias"
     url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
+  - title: "Los nuevos dramas"
     url: "/design/no-header-but-image/"
 
 - title: Documentation
