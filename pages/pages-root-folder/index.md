@@ -10,19 +10,18 @@ header:
 widget1:
   title: "Shadow Beauty"
   url: 'https://dramaname.social/'
-  image: 3.jpg![3](https://user-images.githubusercontent.com/98052217/155425077-959bd466-243e-44d5-835d-1aab56ed5ec1.jpg)
+  image: 3.jpg
 
   text: 'Una estudiante llamada Goo Ae Jin que es considerada fea bajo los estandares de belleza coreanos se ve obligada a lleva una doble vida, en la que aparenta ser una influencer llamada Genie.'
 widget2:
   title: "Adult Trainee"
   url: 'https://dramaname.social/'
   text: 'Este drama nos relata tres historias que tiene como objetivo expresar las aventuras de amor en la adolesencia, dentro de estas encontramos a Jae Min, Yu Ra y Na Eun además este drama busca que la Generacion Z se sienta identificada y pueda revivir sus momentos en la adolescencia.'
-  image: 1.jpg![1](https://user-images.githubusercontent.com/98052217/155425105-ed934fbb-e9d5-4c51-a6cc-0b80f0b1f334.jpg)
+  image: 1.jpg
 
 widget3:
   title: "All of Us Are Dead"
-  url: 'https://dramaname.social/'![2](https://user-images.githubusercontent.com/98052217/155425114-60fc5d01-9979-4254-8af0-cbaad41e0377.jpg)
-
+  url: 'https://dramaname.social/
   image: 2.jpg
   text: 'Un grupo de estudiantes se queda atrapado en la escuela luego de que un brote de un virus zombie es propagado, este grupo de jovenes debe buscar la manera de salir sin ser contagiados.'
 #
