@@ -40,9 +40,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 #
 urlimg: 'https://github.com/ItandehuiBelenLopezMukul.github.io/images/'
 
-
 # Logo size is 600x80 pixels
-#logo: "Drama name.jpg"
+logo: "logo.png"
 
 # Plugins
 plugins:
