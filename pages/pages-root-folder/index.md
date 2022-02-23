@@ -21,7 +21,7 @@ widget2:
 
 widget3:
   title: "All of Us Are Dead"
-  url: 'https://dramaname.social/
+  url: 'https://dramaname.social/'
   image: 2.jpg
   text: 'Un grupo de estudiantes se queda atrapado en la escuela luego de que un brote de un virus zombie es propagado, este grupo de jovenes debe buscar la manera de salir sin ser contagiados.'
 #
