@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Adult Trainee"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: start-video-feeling-responsive-302x182
+  image: start-video-feeling-responsive-302x182.jpg
   text: 'Este drama nos relata tres historias que tienen como objetivo expresar aventuras de amor en la adolescencia, dentro de estas historias encontramos a Jae Min, Yu Ra y Na Eun.'
   
 widget3:
