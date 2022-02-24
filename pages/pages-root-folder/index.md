@@ -15,8 +15,9 @@ widget1:
 widget2:
   title: "Adult Trainee"
   url: 'http://phlow.github.io/feeling-responsive/info/'
+  image: start-video-feeling-responsive-302x182
   text: 'Este drama nos relata tres historias que tienen como objetivo expresar aventuras de amor en la adolescencia, dentro de estas historias encontramos a Jae Min, Yu Ra y Na Eun.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  
 widget3:
   title: "All of Us Are Dead"
   url: 'https://github.com/Phlow/feeling-responsive'
